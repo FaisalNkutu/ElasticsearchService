@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<psf version="2.0">
+<provider id="org.eclipse.egit.core.GitProvider">
+<project reference="1.0,http://fnkutu@srv-code.northforgeinc.com/scm/git/fvaz/Adtran/search-service,master,ElasticSearchService"/>
+<project reference="1.0,http://fnkutu@srv-code.northforgeinc.com/scm/git/fvaz/Adtran/search-service,master,."/>
+</provider>
+</psf>
